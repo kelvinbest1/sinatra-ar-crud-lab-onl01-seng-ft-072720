@@ -2,6 +2,10 @@
 require_relative '../../config/environment'
 require_relative '../models/article.rb'
 
+
+require_relative '../../config/environment'
+require_relative '../models/article.rb'
+
 class ApplicationController < Sinatra::Base
 
   configure do
